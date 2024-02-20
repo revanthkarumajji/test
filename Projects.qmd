@@ -1,0 +1,47 @@
+---
+title: "Projects"
+---
+
+## Response Surface Optimization of Biodiesel from Used Cooking Oil for the application in CI Engine \| Sept22 – Apr 23
+
+Using Design Expert software and Design of Experiments, the Response Surface Optimization of process parameters, such as reaction time, mass percentage of catalyst (NaOH), and volumetric percentage of methanol to oil, was carried out in the production of biodiesel from used cooking oil.
+
+-   Analysis of Variance and multiple regression analysis were used to check the p-values, model summaries, regression equations and the percentage contribution of each component.
+
+-   The optimized biodiesel was tested for its properties, compared to ASTM and EN standards, and found to be within limits.
+
+-   Performance test and emission test were conducted in 4 Stroke diesel engine for different blends
+
+## Working with Automatic Strapping Machine in Steel Rolling Mill \| Feb 23 – Mar 23
+
+We had an opportunity to intern at Light and Medium Merchant Mill (LMMM) section at Visakhapatnam Steel Plant.
+
+-   Learn how steel is produced starting from raw materials.
+
+-   Experienced how data is collected and analysed for examining steel rolls failures.
+
+-   Studied how Billets are transformed to bars in LMMM and the worked with Automatic Strapping Machine.
+
+## Design of Knuckle Joint Model in CATIA V5 \| Aug 22
+
+Project work to obtain hands on experience after the 5 day CATIA modelling training..
+
+-   Utilized CATIA V5 software to design and create individual components of the Knuckle joint, gaining a thorough understanding of its construction.
+
+## From Concept to Creation: Manufacturing an Electric Go-Kart \| Nov21 – Aug 22
+
+We fabricated an Electric go kart for the first time in our campus and participated in Go-Kart Design Challenge competition. 30 students from five different departments worked together to create an electric kart from beginning to end.
+
+-   Worked as in charge of power department which played crucial role in selecting motor and battery specification.
+
+-   Manufactured 60V 75Ah Li-ion battery under expert supervision
+
+-   Developed a business model for an indoor go-kart entertainment park. For better understanding the preferences and needs of potential customers, we conducted surveys and employed data visualization techniques to analyze and present the collected data effectively.
+
+## Collecting Technical Data for Animated Videos on Non-Destructive Testing: A Comprehensive Investigation \| May 21 – May 22
+
+Group of 4 students collaborated with iNuCom India Limited in Hyderabad, India, to prepare technical data for the creation of animation videos for non-destructive techniques (NDT).
+
+-   Transformed unstructured data to structured data.
+
+-   Collected all the required data for 8 modules of NDT and explained the working of each process, along with an overview of the different components utilized in each module.
